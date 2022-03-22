@@ -5,7 +5,7 @@ Aplikacja udostępnia 3 użytkowników:
 Organizatora:
 - dodaje nowe wydarzenie
 - edytuje dodane wydarzenia, wprowadza korekty
-- wyświetla dostęnpe wydarzenia
+- wyświetla dostępne wydarzenia
 - wyświetla uczestników poszczególnych wydarzeń
 
 Animatora:
